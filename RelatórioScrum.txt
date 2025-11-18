@@ -25,6 +25,7 @@ Sem Po, a equipe não sabe qual a prioridade, ele garante que o produto seja ent
 
 Líder equipe de TI
 	Responsabilidades
+	. Mentoria para desenvolvedores menos experientes.  
 	. Tomar decisões técnicas importantes.
 	. Garantir qualidade no código.
 	. Conversar com outras áreas de TI.
@@ -42,3 +43,4 @@ Equipe de tecnologia
 	. Estimar esforço
 	. Realizar a Sprint com autonomia.
 São eles que transformam as ideias em software, possuem uma equipe multifuncional e autogerenciada e quanto mais madura a equipe melhor o Scrum funciona
+
