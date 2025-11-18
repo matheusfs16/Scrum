@@ -1,0 +1,44 @@
+Scrum Master
+. Função principal: Garantir que o Scrum ocorra corretamente
+. Atua como um facilitador, não como líder
+	Responsabilidades
+	. Ensinar e reforçar praticas Scrum
+	. Ajudar a equipe
+	. Remover impedimentos
+	. Ajudar o PO
+  O Scrum Master mantém a equipe produtiva evitando desperdícios e garantindo
+que o Scrum funcione contribuindo também para um ambiente saudável e colaborativo 
+
+
+
+PO(Product Owner)
+. Função principal: Decidir o que será construído e representar o projeto.
+	Responsabilidades
+	. Definir prioridades com base em valor de negócio.
+	. Aceitar ou rejeitar entregas do time.
+	. Entender necessidades de stakeholders e clientes
+	. Criar e manter o Product Backlog(Lista de trabalho com ordem de prioridade)
+
+Sem Po, a equipe não sabe qual a prioridade, ele garante que o produto seja entregue e gere valor e evita retrabalho ao manter objetivos claros.
+
+
+
+Líder equipe de TI
+	Responsabilidades
+	. Tomar decisões técnicas importantes.
+	. Garantir qualidade no código.
+	. Conversar com outras áreas de TI.
+	. Participar de definições de arquitetura
+Atua como parte da equipe de desenvolvimento, possui liderança técnica porém não hierárquica além de ajudar o PO e o time a entender impactos técnicos
+
+
+
+Equipe de tecnologia 
+. Função principal: Entregar o produto
+. Inclui: programadores, testes, devOps, designers, analistas e consumidores do produto
+	Responsabilidades
+	. Decidir como fazer
+	. Garantir qualidade do produto
+	. Estimar esforço
+	. Realizar a Sprint com autonomia.
+São eles que transformam as ideias em software, possuem uma equipe multifuncional e autogerenciada e quanto mais madura a equipe melhor o Scrum funciona
